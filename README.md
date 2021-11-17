@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="../github-profile/me.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="me.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am ABI</h1>
 <h3 align="center">I am a passionate Software Engineer/Junior Full Stack Developer from CAMEROON.</h3>
