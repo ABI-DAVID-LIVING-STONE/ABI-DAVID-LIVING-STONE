@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Camer Event Hall(not yet hosted)](https://)**
 
-- 🌱 I’m currently learning **Grokking Algorithms and Software Engineering with UML by Bhuvan Unhelkar .**
+- 🌱 I’m currently updating my skills on  **JavaScript/ReactJS**
 
 - 👯 Ready and looking to collaborate on **OpenSource Projects**
 
