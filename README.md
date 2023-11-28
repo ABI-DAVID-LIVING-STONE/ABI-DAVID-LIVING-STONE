@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Camer Event Hall(not yet hosted)](https://)**
+- 🔭 I’m currently working on **[Hall in One(not yet hosted)](https://)**
 
-- 🌱 I’m currently updating my skills on  **JavaScript/ReactJS**
+- 🌱 I’m currently updating my skills on  **Software Engineering**
 
 - 👯 Ready and looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abidavestone@gmail.com**
 
-- ⚡ Fun fact **I play guitare and presently learning the piano.**
+- ⚡ Fun fact **I play guitare.**
 
 ## 🚀 Languages and Tools:
 
