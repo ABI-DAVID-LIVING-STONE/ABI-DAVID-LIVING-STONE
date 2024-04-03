@@ -12,7 +12,7 @@
 
 - 👯 Ready and looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio(not yet hosted)](https://)**
+- 👨‍💻 All of my projects are available at **(https://https://abidavid.netlify.app/)**
 
 - 📫 How to reach me **abidavestone@gmail.com**
 
